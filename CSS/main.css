@@ -1,0 +1,119 @@
+﻿body 
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: #F1F4F6;
+}
+
+.title
+{
+	font-family: 'Trebuchet MS' , 'Times New Roman';
+	color: #222222;
+	font-size: 16pt;	
+	font-weight:bold;
+}
+
+.person_info
+{
+
+	margin-left: 10px;	
+}
+
+.check_employees
+{
+	font-family: 'Trebuchet MS' , 'Times New Roman';
+	color: blue;
+	font-size: 12pt;
+	text-decoration: underline;	
+	cursor: hand;
+}
+
+.person_info tr
+{
+	height: 30px;
+}
+
+.personal
+{
+	font-family: 'Trebuchet MS' , 'Times New Roman';
+	color: #222222;
+	font-size: 12pt;	
+	font-weight:bold;
+}
+
+.check_personal
+{
+	font-family: 'Trebuchet MS' , 'Times New Roman';
+	color: #222222;
+	font-size: 10pt;	
+	font-weight:bold;
+}
+
+
+.personal_info
+{
+	font-family: 'Trebuchet MS' , 'Times New Roman';
+	color: #222222;
+	font-size: 11pt;	
+	
+}
+
+.header_table
+{
+	height: 30px;
+	
+	font-size: 12px;
+	font-weight: bold;
+	font-family: 'Trebuchet MS' , 'Times New Roman';
+	color: #333333;
+}
+
+
+
+.main_table  td
+{
+	height: 30px;
+	border-right: solid 1px #999999;
+	border-bottom: solid 1px #999999;
+	font-size: 12px;
+	font-family: 'Trebuchet MS' , 'Times New Roman';
+	color: #333333;
+
+}
+
+.hours
+{
+	border: 1px #AAAAAA solid; 
+	background-color: #FFFFE1; 
+	font-family: 'Trebuchet MS' , 'Times New Roman';
+	font-size: 12px;
+	width: 140px; 
+	height: 30px; 
+	z-index: 4; 
+	position: absolute; 
+	text-align: justify; 
+	padding: 5px;
+
+} 
+
+.input_date
+{
+	width: 80px;
+	border: solid 1px #999999;
+}
+
+.select_project
+{
+	width: 460px;	
+}
+
+.input_hours
+{
+	width: 32px;
+	border: solid 1px #999999;
+}
+
+.input_ctrl
+{
+	border: solid 1px #999999;
+}
